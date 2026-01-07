@@ -1,4 +1,4 @@
-package Condition;
+package Variables;
 
 public class Ifstatement {
 

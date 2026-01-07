@@ -1,14 +1,16 @@
-package Variables;
+package Operaters;
 
-public class Assigmnet5 {
+public class Assigment2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a=51;
-		int b=67;
+		int a=8;
+		int b=3;
 		
-		String result = a +""+ b;
+		int result = (a*b)+(a/b)-(a%b);
 		System.out.println(result);
+		
+	
 
 	}
 
