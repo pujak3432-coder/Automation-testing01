@@ -6,7 +6,7 @@ public class Question2 {
 		// TODO Auto-generated method stub
 		int i=10;
 		if(i>=0); {
-		else if (i)
+		else if ()
 		
 		}
 			
