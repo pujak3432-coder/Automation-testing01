@@ -8,7 +8,7 @@ public class Methodquestion5 {
 
 	public static void main(String[] args) {
 		multiplyNumbers(5,10);
-		
+		Methodexample.addNumber(10,5,7);
 
 	}
 
