@@ -1,0 +1,18 @@
+package Practice;
+
+public class Question4Ass4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=5;
+		int b=10;
+		if(a>b) {
+			System.out.println("a is Largest no");
+		} else {
+			System.out.println("b is largest no.");
+		}
+	
+
+	}
+
+}
